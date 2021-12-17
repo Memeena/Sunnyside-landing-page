@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Sunnyside agency landing page - desktop screenshot.png)
+![](Sunnyside agency landing page - desktop screenshot.png)
 ![](./Sunnyside agency landing page - mobile screenshot.png)
 
 ### Links
